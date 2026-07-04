@@ -104,7 +104,7 @@ Automation • AI • Python • Power BI • SQL • Docker • n8n
 SYSTEM STATUS: ONLINE
 </text>
 
-<rect x="1085" y="345" width="12" height="24" fill="#23f5ff">
+<rect x="945" y="350" width="12" height="24" fill="#23f5ff">
 <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </rect>
 
