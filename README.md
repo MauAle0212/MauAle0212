@@ -1,35 +1,181 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- ======================= -->
+<!--        HEADER           -->
+<!-- ======================= -->
 
-###
+<div align="center">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"  />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+profile...;%3E+Loading+Automation+Modules...;%3E+Loading+Python...;%3E+Loading+Power+BI...;%3E+Loading+Artificial+Intelligence...;%3E+Welcome+to+Mauro+P%C3%A9rez's+profile." />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
- 
 </div>
 
-###
+---
+```bash
+## $ whoami
+```
+```yaml
+Name: Mauro Pérez
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+Username: MauAle0212
+
+Role: Accounting Student & Automation Developer
+
+Focus:
+  - Process Automation
+  - Artificial Intelligence
+  - Python
+  - Power BI
+  - SQL
+
+Currently Learning:
+  - Python
+  - SQL
+  - PostgreSQL
+  - Power BI
+  - n8n
+  - Docker
+
+Status: Online
+
+Coffee: ███████████░
+
+Location: Venezuela
+```
+
+---
+```bash
+## about_me.txt
+```
+```text
+I'm passionate about building solutions that automate repetitive work.
+
+My goal is to combine Accounting,
+Artificial Intelligence,
+Automation,
+and Business Intelligence
+to build tools that save businesses time.
+
+Current Mission:
+
+✓ Learn every day.
+
+✓ Build useful projects.
+
+✓ Solve real business problems.
+
+✓ Launch my own SaaS.
+```
+
+---
+
+```bash
+$ tech_stack/
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,docker,git,github,linux,vscode,postgres,supabase"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </div>
 
-###
+---
+
+```bash
+$ pwd
+```
+
+```bash
+/github/MauAle0212
+│
+├── 🤖 Automation
+├── 🧠 Artificial-Intelligence
+├── 🐍 Python
+├── 📊 PowerBI
+├── 🗄 SQL
+├── 🐳 Docker
+└── 🐧 Linux
+```
+
+---
+```bash
+$ htop
+```
+
+```text
+Automation     ████████████████████ 
+
+Python         ████████████░░░░░░░░ 
+
+SQL            ██████████░░░░░░░░░░ 
+
+Power BI       ███████░░░░░░░░░░░░░
+
+Docker         ██████████░░░░░░░░░░
+
+Linux          ███████████░░░░░░░░░
+
+Coffee         ████████████████████
+```
+
+---
+
+```bash
+$ github_activity
+```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MauAle0212&theme=tokyo-night&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=MauAle0212&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+```bash
+# > social_links
+```
+
+<div align="center">
+
+<a href="">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mauro-p%C3%A9rez-767954302/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mauroperez.analytics@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+```bash
+# > exit
+```
+
+```text
+Connection closed.
+
+Thanks for visiting my profile 👋
+
+See you in the next commit.
+```
